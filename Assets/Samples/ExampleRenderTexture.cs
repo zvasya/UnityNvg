@@ -79,6 +79,7 @@ namespace NvgExample
 				nvg.BeginFrame(winWidth, winHeight, pxRatio);
 				Profiler.EndSample();
 				Profiler.BeginSample("demo Render");
+				context.Begin(cb);
 				demo.Render((float)mx, (float)my, winWidth, winHeight, (float)t, false);
 				Profiler.EndSample();
 				frameGraph.Render(5.0f, 5.0f, nvg);
