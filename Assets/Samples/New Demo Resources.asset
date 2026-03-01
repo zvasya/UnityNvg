@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aed77b7528d4023a0404c2482054d11, type: 3}
+  m_Name: New Demo Resources
+  m_EditorClassIdentifier: 
+  <Images>k__BackingField:
+  - {fileID: 4900000, guid: 6717ddd38b4b042a28c0762306c62044, type: 3}
+  - {fileID: 4900000, guid: 8c5cf484d6d90450c8e4662252204b44, type: 3}
+  - {fileID: 4900000, guid: c4af9e0bd0d1c4bf7b1e50d3d66a9ef0, type: 3}
+  - {fileID: 4900000, guid: 8940e143ad6944cae9c7fca5546009d9, type: 3}
+  - {fileID: 4900000, guid: b3c9d11e857cd41d8988a438b226acad, type: 3}
+  - {fileID: 4900000, guid: 29a885b01918141bc889adc67898b57c, type: 3}
+  - {fileID: 4900000, guid: 3a1b06298f82a4fc7b7b224befd678dd, type: 3}
+  - {fileID: 4900000, guid: 60cd9089321a34b25845208c36c7fe80, type: 3}
+  - {fileID: 4900000, guid: ed8e6ad8b4a7e46d7ada7976733d8223, type: 3}
+  - {fileID: 4900000, guid: 58563638c6c6845cf8c50c61b105b7db, type: 3}
+  - {fileID: 4900000, guid: a5a542d3be8dd4584b5f3c3e232491b8, type: 3}
+  - {fileID: 4900000, guid: 2ab069098630c44f989c5e6caeb72eca, type: 3}
+  <EntypoFont>k__BackingField: {fileID: 4900000, guid: 2898ce266803f4451aee554a9feb3305, type: 3}
+  <RobotoRegularFont>k__BackingField: {fileID: 4900000, guid: 9173ac4f6c71f46bc9f84df008ea7172, type: 3}
+  <RobotoBoldFont>k__BackingField: {fileID: 4900000, guid: f4aa21e49644c47c593c46be35ea3a59, type: 3}
+  <NotoEmojiRegularFont>k__BackingField: {fileID: 4900000, guid: 3f7c0ffc253fb49dba3b8c6ff2fedca9, type: 3}
